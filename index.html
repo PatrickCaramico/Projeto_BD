@@ -9,21 +9,24 @@
 <body>
     <header>
         <h1> Tela de login</h1>
-           </header>
+    </header>
 
+    <h1 class="titulo">
+        Efetue o seu Login
+    </h1>
     <form method="post" action="inicio.html">
         <p>
            <label for="ema">Email:</label>
-           <input id="ema" type="text" name="email" size="20" maxlength="20" required>  
+           <input id="ema" type="email" name="email" size="40" maxlength="40" required>  
         </p>
 
         <p>
             <label for="sen">senha:</label>
-            <input id="sen" type="text" name="senha" size="12" maxlength="12" required>  
+            <input id="sen" type="text" name="senha" size="40" maxlength="40" required>  
          </p>
         
          <p>
-            <input type="submit" value="Salvar">
+            <button class="botao" type="submit" value="Logar">Logar</button>
             <a href="cadastro.html">Cadastre-se</a>
          </p>                  
     </form>
