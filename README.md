@@ -16,7 +16,7 @@
 - [Codigos](#codigos)
   - [HTML](#html)
   - [CSS](#CSS)
-  - [Js](#hs)
+  - [Js](#Js)
   - [PHP](#php)
   - [Banco Dados](#bd)
 - [Processo](#processo)
@@ -77,7 +77,51 @@
 
 ### html
 <p>Tela HTML</p>
-<img src=""/>
+<img src="Projeto_BD/Script BD/imgs/Tela HTML.png"/>
+
+### CSS
+<p>Tela CSS</p>
+<img src="Projeto_BD/Script BD/imgs/Tela CSS.png"/>
+
+### Js
+<p>Tela Js</p>
+<img src="Projeto_BD/Script BD/imgs/Tela JS.png"/>
+
+### php
+<p>Tela PHP</p>
+<img src="Projeto_BD/Script BD/imgs/Tela PHP.png"/>
+
+### bd
+<p>Tela Banco de Dados</p>
+<img src="Projeto_BD/Script BD/imgs/Tela BD.png"/>
+
+## processo
+
+### projeto
+
+- HTML semântico;
+- Prioridades CSS;
+- API;
+- Tela login;
+- Banco de Dados.
+
+### aprendizado
+
+🟢 API <br>
+🟢 Tela Cadastro <br>
+🟢 Tela login <br>
+🟢 Banco de dados.
+
+## autor
+
+[![GitHub Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/PatrickCaramico)](https://github.com/PatrickCaramico) <br>
+[![GitHub Badge](https://img.shields.io/badge/andredarc-0077B5?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/andredarc)](https://github.com/andredarc) <br>
+[![GitHub Badge](https://img.shields.io/badge/Matheus%20Henrique%20M-0077B5?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Matheus-Henrique-M)](https://github.com/Matheus-Henrique-M)<br>
+[![GitHub Badge](https://img.shields.io/badge/mariana0103-0077B5?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mariana0103)](https://github.com/mariana0103)
+
+
+
+
 
 
 
