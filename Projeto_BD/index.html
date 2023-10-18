@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="estilos.css">
+    <script src="auth.js"></script>
+</head>
+<body>
+    <header>
+        <h1> Tela de login</h1>
+    </header>
+
+    <h1 class="titulo">
+        Efetue o seu Login
+    </h1>
+    <form method="post" action="inicio.php" id="login-form">
+        <p>
+           <label for="ema">Email:</label>
+           <input id="ema" type="email" name="email" size="40" maxlength="40" required>  
+        </p>
+
+        <p>
+            <label for="sen">Senha:</label>
+            <input id="sen" type="password" name="senha" size="40" maxlength="40" required>  
+         </p>
+        
+         <p>
+            <button class="botao" type="submit" value="Logar">Logar</button>
+            <a href="cadastro.html">Cadastre-se</a>
+         </p>                  
+    </form>
+</body>
+</html>
