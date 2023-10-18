@@ -5,7 +5,7 @@
 ## Conteúdo:
 - [Inicio](#inicio)
   - [Sobre](#sobre)
-- [Imagens](#iamgens)
+- [Imagens](#imagens)
   - [prints](#prints)
   - [gif](#gif)
 - [Codigos](#codigos)
@@ -18,3 +18,12 @@
   - [Projeto](#projeto)
   - [Aprendizado](#aprendizado)
 - [Autores](#autores)    
+
+## inicio
+
+### sobre
+
+<p>E um projeto simples onde o usuario consegue cadastrar um formulario em umm banco de dados, ele consegue fazer login no sistema com um alerta de bem vindo usuario. Após acessar o sistema o usuario consegue ter acesso a informações da conta, editar a conta e excluir a conta, lembrando que o cadastro ele é feito junto com uma API que informa o endereço com base no cep.</p>
+
+## imagens
+
