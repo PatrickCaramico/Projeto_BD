@@ -23,7 +23,7 @@
 
 ### sobre
 
-<p>E um projeto simples onde o usuario consegue cadastrar um formulario em umm banco de dados, ele consegue fazer login no sistema com um alerta de bem vindo usuario. Após acessar o sistema o usuario consegue ter acesso a informações da conta, editar a conta e excluir a conta, lembrando que o cadastro ele é feito junto com uma API que informa o endereço com base no cep.</p>
+<p>É um projeto simples no qual o usuário consegue cadastrar um formulário em um banco de dados. Ele pode fazer login no sistema com um alerta de boas-vindas ao usuário. Após acessar o sistema, o usuário pode ter acesso às informações da conta, editar a conta e excluí-la. Lembrando que o cadastro é feito junto com uma API que fornece o endereço com base no CEP</p>
 
 ## imagens
 
