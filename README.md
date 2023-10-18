@@ -112,7 +112,7 @@
 🟢 Tela login <br>
 🟢 Banco de dados.
 
-## autor
+## autores
 
 [![GitHub Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/PatrickCaramico)](https://github.com/PatrickCaramico) <br>
 [![GitHub Badge](https://img.shields.io/badge/andredarc-0077B5?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/andredarc)](https://github.com/andredarc) <br>
