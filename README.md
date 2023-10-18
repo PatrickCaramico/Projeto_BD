@@ -7,6 +7,8 @@
   - [Sobre](#sobre)
 - [Imagens](#imagens)
   - [prints](#prints)
+    - [Tela Login](#login)
+    - [Tela Cadastro](#cadastro)
   - [gif](#gif)
 - [Codigos](#codigos)
   - [HTML](#html)
@@ -29,5 +31,16 @@
 
 ### prints
 
-<img src="" width="900px"/>
+#### login
 
+<div width="100%" align="center">
+<p>Tela Login</p>
+<img src="Projeto_BD/Script BD/imgs/Tela Inicio.png"/>
+</div>
+
+#### cadastro
+
+<div width="100%" align="center">
+<p>Tela Cadastro</p>
+<img src="Projeto_BD/Script BD/imgs/Tela Cadastro.png"/>
+</div>
