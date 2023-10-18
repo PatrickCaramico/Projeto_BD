@@ -7,8 +7,11 @@
   - [Sobre](#sobre)
 - [Imagens](#imagens)
   - [prints](#prints)
-    - [Tela Login](#login)
+    - [Tela Inicio](#inicio)
     - [Tela Cadastro](#cadastro)
+    - [Tela Banco de Dados](#banco)
+    - [Tela Login](#login)
+    - [Tela Sistema](#sistema)
   - [gif](#gif)
 - [Codigos](#codigos)
   - [HTML](#html)
@@ -31,16 +34,50 @@
 
 ### prints
 
-#### login
+#### inicio
 
 <div width="100%" align="center">
-<p>Tela Login</p>
+<p>Tela Inicio</p>
 <img src="Projeto_BD/Script BD/imgs/Tela Inicio.png"/>
 </div>
 
 #### cadastro
 
 <div width="100%" align="center">
-<p>Tela Cadastro</p>
-<img src="Projeto_BD/Script BD/imgs/Tela Cadastro.png"/>
+  <p>Tela Cadastro</p>
+  <img src="Projeto_BD/Script BD/imgs/Tela Cadastro.png"/>
 </div>
+
+#### banco
+
+<div width="100%" align="center">
+  <p>Tela Banco de Dados</p>
+  <img src="Projeto_BD/Script BD/imgs/Banco de dados.png"/>
+</div>
+
+#### login
+
+<div width="100%" align="center">
+  <p>Tela Login</p>
+  <img src="Projeto_BD/Script BD/imgs/Login_site.png"/>
+</div>
+
+#### sistema
+
+<div width="100%" align="center">
+  <p>Tela Sistema</p>
+  <img src="Projeto_BD/Script BD/imgs/Sistema.png"/>
+</div>  
+
+### gif
+
+<img src="Projeto_BD/Script BD/imgs/Projeto_inicio.gif"/>
+
+## codigos
+
+### html
+<p>Tela HTML</p>
+<img src=""/>
+
+
+
