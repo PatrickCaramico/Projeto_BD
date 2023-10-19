@@ -118,6 +118,7 @@
 [![GitHub Badge](https://img.shields.io/badge/andredarc-0077B5?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/andredarc)](https://github.com/andredarc) <br>
 [![GitHub Badge](https://img.shields.io/badge/Matheus%20Henrique%20M-0077B5?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Matheus-Henrique-M)](https://github.com/Matheus-Henrique-M)<br>
 [![GitHub Badge](https://img.shields.io/badge/mariana0103-0077B5?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mariana0103)](https://github.com/mariana0103)
+[![GitHub Badge](https://img.shields.io/badge/DanyMatos-0077B5?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/danymatos)](https://github.com/danymatos)
 
 
 
